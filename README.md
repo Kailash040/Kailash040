@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://pizza-site04.netlify.app/](https://pizza-site04.netlify.app/)
-
 - 📫 How to reach me **kailashrajut0575@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
