@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Amazon-Clone**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I Have Experience in  **Nextjs Reactjs**
 
 - 📫 How to reach me **kailashrajut0575@gmail.com**
 
