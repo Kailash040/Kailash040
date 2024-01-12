@@ -4,7 +4,7 @@
  <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coder" /> 
 
 
-- 🌱 I Have Experience in  **Nextjs Reactjs**
+- 🌱 I Have Experience in  **Nextjs Reactjs Javascript**
 
 - 📫 How to reach me **kailashrajut0575@gmail.com**
 
